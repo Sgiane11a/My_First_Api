@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'app01',  #Primera Aplicación del Proyecto
+    'rest_framework',  # El módulo REST Framework
 ]
 
 MIDDLEWARE = [
